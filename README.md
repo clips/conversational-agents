@@ -3,13 +3,13 @@ This is an online repository for articles and resources related to Conversationa
 
 ## Table of Contents
 
-<details open>
-* <summary>Articles</summary>
-  * Foundamentals
-  * Task-Oriented CAs
-  * Data-Driven CAs
-  * Filling the gap
+<details>
+<summary>Articles</summary>
+ 
++ Foundamentals
++ Task-Oriented CAs
++ Data-Driven CAs
++ Filling the gap
 </details>
 
 
-* Datasets
