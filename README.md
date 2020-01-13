@@ -40,6 +40,7 @@ This is an online repository for articles and resources related to Conversationa
   + [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](http://arxiv.org/abs/1605.06069)
   + [A Knowledge-Grounded Neural Conversation Model](http://arxiv.org/abs/1702.01932)
   + [Learning to Control the Specificity in Neural Response Generation](https://www.aclweb.org/anthology/P18-1102)
+  + [2017 - Ahn - A Neural Knowledge Language Model](https://arxiv.org/abs/1608.00318)
   
   
   </details> 
