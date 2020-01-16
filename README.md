@@ -40,7 +40,9 @@ This is an online repository for articles and resources related to Conversationa
   + [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](http://arxiv.org/abs/1605.06069)
   + [A Knowledge-Grounded Neural Conversation Model](http://arxiv.org/abs/1702.01932)
   + [Learning to Control the Specificity in Neural Response Generation](https://www.aclweb.org/anthology/P18-1102)
+  + [2015 - Shang - Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152/)
   + [2017 - Ahn - A Neural Knowledge Language Model](https://arxiv.org/abs/1608.00318)
+  + [2019 - Kocijan - A Surprisingly Robust Trick for Winograd Schema Challenge](https://arxiv.org/abs/1905.06290)
   
   
   </details> 
@@ -52,6 +54,8 @@ This is an online repository for articles and resources related to Conversationa
   Resources on recent attempts to fill the gap between the two aforementioned approaches 
   + [A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue](https://www.aclweb.org/anthology/E17-2075)
   + [Global-to-local Memory Pointer Networks for Task-Oriented Dialogue](http://arxiv.org/abs/1901.04713)
+  + [2018 - Manuvinakurike - Conversational Image Editing: Incremental Intent Identification in a New Dialogue Task](https://www.aclweb.org/anthology/W18-5033/)
+  
   
   </details> 
   
