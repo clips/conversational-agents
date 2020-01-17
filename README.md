@@ -44,6 +44,7 @@ This is an online repository for articles and resources related to Conversationa
   + [2017 - Ahn - A Neural Knowledge Language Model](https://arxiv.org/abs/1608.00318)
   + [2017 - Dhingra - Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
   + [2019 - Kocijan - A Surprisingly Robust Trick for Winograd Schema Challenge](https://arxiv.org/abs/1905.06290)
+  + [2019 - Merity - Single Headed Attention RNN: Stop Thinking With Your Head](https://arxiv.org/abs/1911.11423)
   
   
   </details> 
