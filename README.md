@@ -38,12 +38,12 @@ This is an online repository for articles and resources related to Conversationa
   <summary>Data-Driven CAs</summary>
  
   Resources on the Data-driven approach towards CA (aka. chitchat)
-  + [A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
-  + [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](https://arxiv.org/abs/1506.06714)  
-  + [A Diversity-Promoting Objective Function for Neural Conversation Models](http://arxiv.org/abs/1510.03055)
-  + [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](http://arxiv.org/abs/1605.06069)
-  + [A Knowledge-Grounded Neural Conversation Model](http://arxiv.org/abs/1702.01932)
-  + [Learning to Control the Specificity in Neural Response Generation](https://www.aclweb.org/anthology/P18-1102)
+  + [2015 - Vinyals - A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
+  + [2015 - Sordoni - A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](https://arxiv.org/abs/1506.06714)  
+  + [2016 - Li - A Diversity-Promoting Objective Function for Neural Conversation Models](http://arxiv.org/abs/1510.03055)
+  + [2016 - Serban - A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](http://arxiv.org/abs/1605.06069)
+  + [2018 - Ghazvininejad - A Knowledge-Grounded Neural Conversation Model](http://arxiv.org/abs/1702.01932)
+  + [2018 - Zhang - Learning to Control the Specificity in Neural Response Generation](https://www.aclweb.org/anthology/P18-1102)
   + [2015 - Shang - Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152/)
   + [2017 - Ahn - A Neural Knowledge Language Model](https://arxiv.org/abs/1608.00318)
   + [2017 - Dhingra - Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
@@ -58,8 +58,8 @@ This is an online repository for articles and resources related to Conversationa
   <summary>Filling the gap</summary>
  
   Resources on recent attempts to fill the gap between the two aforementioned approaches 
-  + [A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue](https://www.aclweb.org/anthology/E17-2075)
-  + [Global-to-local Memory Pointer Networks for Task-Oriented Dialogue](http://arxiv.org/abs/1901.04713)
+  + [2017 - Eric&Manning - A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue](https://www.aclweb.org/anthology/E17-2075)
+  + [2019 - Wu - Global-to-local Memory Pointer Networks for Task-Oriented Dialogue](http://arxiv.org/abs/1901.04713)
   + [2018 - Manuvinakurike - Conversational Image Editing: Incremental Intent Identification in a New Dialogue Task](https://www.aclweb.org/anthology/W18-5033/)
   
   
