@@ -25,8 +25,8 @@ This is an online repository for articles and resources related to Conversationa
   <summary>Task-Oriented CAs</summary>
  
   Resources on the Task-oriented approach towards CA (aka. chatbots)
-  + [Learning End-to-End Goal-Oriented Dialog](http://arxiv.org/abs/1605.07683) 
-  + [2020- Uber AI- Plato Dialogue System: A Flexible Conversational AI Research Platform](https://arxiv.org/abs/2001.06463)
+  + [2017 - Bordes - Learning End-to-End Goal-Oriented Dialog](http://arxiv.org/abs/1605.07683) 
+  + [2020 - Uber AI- Plato Dialogue System: A Flexible Conversational AI Research Platform](https://arxiv.org/abs/2001.06463)
   </details> 
   
   
