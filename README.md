@@ -49,7 +49,7 @@ This is an online repository for articles and resources related to Conversationa
   + [2017 - Dhingra - Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
   + [2018 - Ghazvininejad - A Knowledge-Grounded Neural Conversation Model](http://arxiv.org/abs/1702.01932)
   + [2018 - Zhang - Learning to Control the Specificity in Neural Response Generation](https://www.aclweb.org/anthology/P18-1102)
-  + [2018 - Jiang - Why are Sequence-to-Sequence Models So Dull?] (https://arxiv.org/abs/1809.01941)
+  + [2018 - Jiang - Why are Sequence-to-Sequence Models So Dull?](https://arxiv.org/abs/1809.01941)
   + [2019 - Kocijan - A Surprisingly Robust Trick for Winograd Schema Challenge](https://arxiv.org/abs/1905.06290)
   + [2019 - Merity - Single Headed Attention RNN: Stop Thinking With Your Head](https://arxiv.org/abs/1911.11423)
   
