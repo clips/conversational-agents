@@ -10,9 +10,10 @@ This is an online repository for articles and resources related to Conversationa
   <summary>Foundamentals</summary>
  
   Resources about the foundamental/background knowledge and overviews
-  + [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267)
-
-  + []()
+  + [2019 - Gao - Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267)
+  + [2017 - Liu - How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://arxiv.org/abs/1603.08023)
+  + [2017 - Novikova- Why We Need New Evaluation Metrics for NLG](https://arxiv.org/abs/1707.06875)
+  
 
   
   
