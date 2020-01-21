@@ -39,6 +39,7 @@ This is an online repository for articles and resources related to Conversationa
  
   Resources on the Data-driven approach towards CA (aka. chitchat)
   + [2015 - Vinyals - A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
+  + [2015 - Shang - Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152/)
   + [2015 - Sordoni - A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](https://arxiv.org/abs/1506.06714)  
   + [2016 - Li - A Diversity-Promoting Objective Function for Neural Conversation Models](http://arxiv.org/abs/1510.03055)
   + [2016 - Serban - A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](http://arxiv.org/abs/1605.06069)
@@ -72,6 +73,11 @@ This is an online repository for articles and resources related to Conversationa
 <summary>Datasets</summary>
 </details>
 
+[comment]: # (##############################################################################################)
+<details>
+<summary>Links</summary>
+ + [An Annotated Reading List of Conversational AI](https://medium.com/x8-the-ai-community/a-reading-list-and-mini-survey-of-conversational-ai-32fceea97180)
+</details>
 
 [comment]: # (This actually is the most platform independent comment)
 
