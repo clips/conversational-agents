@@ -79,6 +79,7 @@ This is an online repository for articles and resources related to Conversationa
 <details>
 <summary>Datasets</summary>
  
+ + [Ubuntu Dialogue Corpus v2.0](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)
  + [Schema-Guided Dialogue State Tracking](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue)
 
  + [MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://github.com/budzianowski/multiwoz)
