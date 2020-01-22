@@ -27,7 +27,7 @@ This is an online repository for articles and resources related to Conversationa
  
   Resources on the Task-oriented approach towards CA (aka. chatbots)
   + [2017 - Bordes - Learning End-to-End Goal-Oriented Dialog](http://arxiv.org/abs/1605.07683) 
-  + [Towards Scalable Multi-domain Conversational Agents: The Schema-Guided Dialogue Dataset
+  + [2019 - Rastogi - Towards Scalable Multi-domain Conversational Agents: The Schema-Guided Dialogue Dataset
 ](https://arxiv.org/abs/1909.05855)
   + [2020 - Uber AI- Plato Dialogue System: A Flexible Conversational AI Research Platform](https://arxiv.org/abs/2001.06463) 
   + [2020 - Lair - User-in-the-loop Adaptive Intent Detection for Instructable Digital Assistant
