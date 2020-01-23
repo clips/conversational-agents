@@ -91,7 +91,7 @@ This is an online repository for articles and resources related to Conversationa
 <details>
 <summary>Links</summary>
  
- + [An Annotated Reading List of Conversational AI](https://medium.com/x8-the-ai-community/a-reading-list-and-mini-survey-of-conversational-ai-32fceea97180)
+
 </details>
 
 [comment]: # (This actually is the most platform independent comment)
