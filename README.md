@@ -6,7 +6,7 @@ This is an online repository for articles and resources related to Conversationa
 <details>
 <summary>Articles</summary>
  
-+ <details>
++ <details open>
   <summary>Foundamentals</summary>
  
   Resources about the foundamental/background knowledge and overviews
