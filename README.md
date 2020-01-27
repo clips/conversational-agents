@@ -3,7 +3,7 @@ This is an online repository for articles and resources related to Conversationa
 
 ## Table of Contents
 
-<details>
+<details open>
 <summary>Articles</summary>
  
 + <details open>
