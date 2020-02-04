@@ -84,6 +84,7 @@ This is an online repository for articles and resources related to Conversationa
 
  + [MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://github.com/budzianowski/multiwoz)
  + [Frames: A Corpus for Adding Memory to Goal-Oriented Dialogue Systems](https://www.microsoft.com/en-us/research/project/frames-dataset/)
+ + [Topical-Chat: a knowledge-grounded human-human conversation dataset](https://github.com/alexa/alexa-prize-topical-chat-dataset)
  
  </details>
 
