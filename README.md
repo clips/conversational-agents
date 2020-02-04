@@ -38,9 +38,9 @@ This is an online repository for articles and resources related to Conversationa
   
 [comment]: # (##############################################################################################)
 + <details>
-  <summary>Data-Driven CAs</summary>
+  <summary>Open domain CAs</summary>
  
-  Resources on the Data-driven approach towards CA (aka. chitchat)
+  Resources on open-domain CA (aka. chitchat)
   + [2015 - Vinyals - A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
   + [2015 - Shang - Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152/)
   + [2015 - Sordoni - A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](https://arxiv.org/abs/1506.06714) 
