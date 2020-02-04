@@ -7,7 +7,7 @@ This is an online repository for articles and resources related to Conversationa
 <summary>Articles</summary>
  
 + <details>
-  <summary>Foundamentals</summary>
+  <summary>Fundamentals</summary>
  
   Resources about the foundamental/background knowledge and overviews
   + [2019 - Gao - Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267)
