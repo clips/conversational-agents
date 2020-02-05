@@ -14,6 +14,7 @@ This is an online repository for articles and resources related to Conversationa
   + [2017 - Liu - How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://arxiv.org/abs/1603.08023)
   + [2017 - Novikova- Why We Need New Evaluation Metrics for NLG](https://arxiv.org/abs/1707.06875)
   + [2019 - See - What makes a good conversation? How controllable attributes affect human judgments](https://www.aclweb.org/anthology/N19-1170/) 
+  + [2019 - Dathathri - Plug and Play Language Models: A Simple Approach to Controlled Text Generation](https://arxiv.org/abs/1912.02164)
 
   
   
