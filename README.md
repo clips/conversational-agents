@@ -9,7 +9,7 @@ This is an online repository for articles and resources related to Conversationa
 + <details>
   <summary>Fundamentals</summary>
  
-  Resources about the foundamental/background knowledge and overviews
+  Resources about the fundamental/background knowledge and overviews
   + [2019 - Gao - Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267)
   + [2017 - Liu - How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://arxiv.org/abs/1603.08023)
   + [2017 - Novikova- Why We Need New Evaluation Metrics for NLG](https://arxiv.org/abs/1707.06875)
@@ -28,6 +28,7 @@ This is an online repository for articles and resources related to Conversationa
   Resources on the Task-oriented approach towards CA (aka. chatbots)
   + [2013- Young- POMDP-Based Statistical Spoken Dialog Systems: A Review](http://ieeexplore.ieee.org/document/6407655/)
   + [2017 - Bordes - Learning End-to-End Goal-Oriented Dialog](http://arxiv.org/abs/1605.07683) 
+  + [2017 - Mrkšić - Neural Belief Tracker: Data-Driven Dialogue State Tracking](http://arxiv.org/abs/1606.03777)
   + [2019 - Rastogi - Towards Scalable Multi-domain Conversational Agents: The Schema-Guided Dialogue Dataset
 ](https://arxiv.org/abs/1909.05855)
   + [2020 - Uber AI- Plato Dialogue System: A Flexible Conversational AI Research Platform](https://arxiv.org/abs/2001.06463) 
