@@ -61,6 +61,7 @@ This is an online repository for articles and resources related to Conversationa
   + [2019 - Kocijan - A Surprisingly Robust Trick for Winograd Schema Challenge](https://arxiv.org/abs/1905.06290)
   + [2019 - Lewis - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461)
   + [2019 - Merity - Single Headed Attention RNN: Stop Thinking With Your Head](https://arxiv.org/abs/1911.11423)
+  + [2019 - Zhang - DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation](https://arxiv.org/abs/1911.00536)
   
   
   </details> 
